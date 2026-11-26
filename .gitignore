@@ -1,0 +1,18 @@
+# IntelliJ IDEA
+.idea/
+out/
+*.iml
+
+# 编译产物
+target/
+*.class
+*.jar
+*.war
+
+# 日志
+*.log
+
+# 系统文件
+Thumbs.db
+.DS_Store
+desktop.ini
